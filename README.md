@@ -4,8 +4,8 @@ This project was meant to give hands-on approach to learning Jetpack Compose by 
 
 #Technology Stack
 
-Jetpack Compose
-Mobbin.com for reference check out the screen shots, and guide at https://mobbin.com/apps/nike-run-club-android-6440cde3-64e2-4f7c-8f01-014050d72069/281d3979-8440-48df-a817-92d071d3c7ad/screens
+1. Jetpack Compose
+2. Mobbin.com for reference check out the screen shots, and guide at https://mobbin.com/apps/nike-run-club-android-6440cde3-64e2-4f7c-8f01-014050d72069/281d3979-8440-48df-a817-92d071d3c7ad/screens
 Below are a few pages recreated with Jetpack Compose
 
 ![screen shot 3](https://github.com/ttakpotosu2/Nike-App-Clone/assets/105734117/d43a3947-5346-43ae-821d-bb7dd5be3850)
